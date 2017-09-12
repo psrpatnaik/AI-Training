@@ -1,4 +1,4 @@
-# machine-learning-recipes
+# machine-learning-recipes using Sci-kit and TensorFlow
 Machine Learning Recipes with Josh Gordon
 
 Follows the [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) series by [Google Developers](https://www.youtube.com/user/GoogleDevelopers).
@@ -17,3 +17,9 @@ In this episode, we’ll write a basic pipeline for supervised learning with jus
 
 ## [Part 5 - Writing Our First Classifier](https://youtu.be/AoeEHqVSNOw)
 Welcome back! It's time to write our first classifier. This is a milestone if you’re new to machine learning. We'll start with our code from episode #4 and comment out the classifier we imported. Then, we'll code up a simple replacement - using a scrappy version of k-Nearest Neighbors
+
+## [Part 6 - Train an Image Classifier with TensorFlow for Poets ](https://youtu.be/cSKfRcEDGUs)
+Monet or Picasso? In this episode, we’ll train our own image classifier, using TensorFlow for Poets. Along the way, I’ll introduce Deep Learning, and add context and background on why the classifier works so well. Here are links to learn more, thanks for watching, and have fun! 
+
+## [Part 7 - Classifying Handwritten Digits with TF.Learn ](https://youtu.be/Gj0iyo265bc)
+Last time we wrote an image classifier using TensorFlow for Poets. This time, we’ll write a basic one using TF.Learn. To make it easier for you to try this out, I wrote a Jupyter Notebook for this episode -- https://goo.gl/NNlMNu -- and I’ll start with a quick screencast of installing 
