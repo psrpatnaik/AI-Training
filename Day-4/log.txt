@@ -1,0 +1,268 @@
+Hi All !!
+
+Happy Engineers Day :)
+
+Will start the session at 2:05 
+
+waiting for participants to join.
+
+Learning objectives:
+
+1) Know what are ANN
+2) Why ANN ?
+Math behind ANN
+3) Code samples in Python+TensorFlow
+ and Java + neuroph
+
+I am muted.
+
+41 participants of 87...
+
+
+Apple Face ID 
+
+FFNN
+BPNN
+
+
+ : MUliti Layer NN #Layer= 30 -50
+200
+more relaitic human like thingking.
+
+
+Deep Learning
+ 
+RNN (rECURRENT nn) more famous for 
+NLP: pattern recognition.
+
+CNN (convulutionAL nn): CV , Visual recognition
+Speech recognition:
+
+LSTMS (long short term memory NN) 
+NLP.
+
+IMAGE are further processed into some representation 
+IP work on these obatained repsrpesentaions
+
+MAtrix, Image vectors
+
+Image input ---- > CNN 
+
+Auto Driving Cars: Tesla , Uber. 
+
+
+2 layer NN can implement any mathemactical function known.
+
+
+NN performance is not much affected by noise in data
+
+Apples and Oranges
+140 , smooth,,
+150000, smoooth   --- outliers  
+Regression and clissfiiers 
+they won't function 
+
+NN are affected !
+
+
+Popular Science Magazine :
+
+Self-Organization Map (SOM)  Kohonen Networks
+ 
+NN require bit more training
+12
+12.09
+[12,34,56,78,0.89,000000.00009]
+x1, x2, x3
+[1,2,3]
+
+S=x1*w1+x2*w2+x3*w3
+
+
+-1 to 1
+
+0.1  0.3 0.7
+CPU of NN
+
+S=0.5+1+1.5
+S=3
+
+s > 5 then y=1
+
+s <5 then y=-1
+y= -1 Or 1
+
+KEras + Tensorlfoe
+
+Tensor now 1000 
+
+
+
+One small exmaple of
+TensorFlow
+coding
+
+Java Example :
+
+neuroph
+inout
+
+[1,2,3,45,67,45]
+[[12,34,56][34][90,-1]]
+
+input X 
+i[1,2,3]
+w[0.1,0.2,0.3]
+
+sum (1*0.1+1*0.2+1*0.3) + sum (2*0.1+2*0.2..) + .....
+
+MATRIX  [m][n] * [m1][n1]
+
+CPU
+GPU--- TensorFlow (NVdia Cuda) 
+APU tensorflow..
+1 * 1 
+1.00001 * 1.001
+
+
+
+Ubuntu 16.04 LTS
+ease of installation in this
+
+
+Python 3.6
+pip pip3
+
+pip3 install -U tensorflow
+
+scipy
+numpy 
+sklearn  sci-kit  
+
+
+// y=x*0.1 + 0.3
+
+
+x[1,2,4,5,67,45,23,45,67,12]
+
+y[0.4,2.4,.................]
+
+
+TF <--Training--- x,y
+
+TF-- Predict output- > y=x*[some value precited by tf] + [some predicted by tf]
+					weights			bisases
+
+weights= 0.1  ---- // 0.0999
+bisases= 0.3  ---- // 0.29999
+
+32 bit floating 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+weithed sum
+
+R= set of real number
+
+H{[1,34,56,0.8]}
+
+Tensor [1]
+var=9;
+
+NN can implement or function
+like 
+AND OR NOT NAND NOR XOR
+
+in short all boolean:
+All concepts in CS and can b
+e relaized using NN
+ 
+
+
+
+
+
+
+Learning rate: 0.5
+
+Gradient Desent: 
+
+Minimization and Maximization
+
+loss= MSE 
+
+y=f(loss)
+
+
+y value is minimum 
+
+
+[1,23,45] 
+[1,1]----[1]
+
+[23,45,67]
+[0]----[1]'
+  incorrect
+
+[t-0]
+
+
+
+
+
+
+f(x)= 1 / (1- e^-x)   => 0 to 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
